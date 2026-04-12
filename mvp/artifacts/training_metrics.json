@@ -1,0 +1,64 @@
+{
+  "dataset_summary": {
+    "total_examples": 949,
+    "healthy_examples": 402,
+    "unhealthy_examples": 547,
+    "states": {
+      "braking state": 153,
+      "idle state": 616,
+      "startup state": 180
+    },
+    "conditions": {
+      "normal_brakes": 77,
+      "worn_out_brakes": 76,
+      "low_oil": 107,
+      "normal_engine_idle": 264,
+      "power_steering": 129,
+      "serpentine_belt": 116,
+      "bad_ignition": 62,
+      "dead_battery": 57,
+      "normal_engine_startup": 61
+    }
+  },
+  "metrics": {
+    "train_accuracy": 0.855072463768116,
+    "test_accuracy": 0.8210526315789474,
+    "confusion_matrix": [
+      [
+        88,
+        22
+      ],
+      [
+        12,
+        68
+      ]
+    ],
+    "classification_report": {
+      "unhealthy": {
+        "precision": 0.88,
+        "recall": 0.8,
+        "f1-score": 0.8380952380952381,
+        "support": 110.0
+      },
+      "healthy": {
+        "precision": 0.7555555555555555,
+        "recall": 0.85,
+        "f1-score": 0.8,
+        "support": 80.0
+      },
+      "accuracy": 0.8210526315789474,
+      "macro avg": {
+        "precision": 0.8177777777777777,
+        "recall": 0.825,
+        "f1-score": 0.819047619047619,
+        "support": 190.0
+      },
+      "weighted avg": {
+        "precision": 0.8276023391812866,
+        "recall": 0.8210526315789474,
+        "f1-score": 0.8220551378446116,
+        "support": 190.0
+      }
+    }
+  }
+}
