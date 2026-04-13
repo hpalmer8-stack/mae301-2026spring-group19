@@ -2,6 +2,6 @@
 
 mvplink.md : link to tool for use and demo
 
-Hugging Face Repo : link to full tree of code and documentation
+repo.md : link to full tree of code and documentation
 
 Report.md : Phase 2 Report
