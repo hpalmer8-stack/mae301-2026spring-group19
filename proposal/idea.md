@@ -1,5 +1,7 @@
 MAE 301 Project Proposal: Engine Health Analysis
+
 Daniel Pham, Jacob Baxely, Hunter Palmer, Gavin Pessefall, Eric Jocque
+
 Spring 2026
 
 
