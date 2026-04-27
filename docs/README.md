@@ -2,6 +2,6 @@
 
 proposal: idea pitch markdown + video link
 
-mvp: Hugging Tree repo, link, report
+mvp: version 2 link, Hugging Tree repo, report
 
-docs: any extra documentation
+phase 2: version 1 repo, tool, and report
