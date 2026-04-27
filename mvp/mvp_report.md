@@ -1,4 +1,4 @@
-EchoGuard – MVP Report
+## EchoGuard – MVP Report
 1. Executive Summary:
 EchoGuard is an AI-based engine diagnostic tool that analyzes short audio recordings of engine idle and determines whether the engine is operating normally or exhibiting abnormal behavior. The system uses acoustic feature extraction combined with machine learning classification to produce a binary output (healthy vs abnormal) along with a confidence score. The MVP demonstrates a complete pipeline from audio input to prediction, supported by a simple user interface that allows users to upload engine audio and receive immediate feedback. This approach provides a fast and accessible method for early detection of potential engine issues.
 2. User & Use Case:
